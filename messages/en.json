@@ -1,1 +1,102 @@
-
+{
+  "brand": {
+    "name": "PinoyCare CH",
+    "tagline": "Find trusted babysitters & housekeepers in Switzerland"
+  },
+  "nav": {
+    "home": "Home",
+    "favourites": "Favourites",
+    "profile": "My profile",
+    "views": "Profile views",
+    "messages": "Messages",
+    "help": "Help",
+    "login": "Log in",
+    "register": "Sign up",
+    "logout": "Log out",
+    "account": "My account",
+    "profileSettings": "Profile settings"
+  },
+  "help": {
+    "howItWorks": "How it works",
+    "safetyTips": "Safety tips",
+    "contact": "Contact support",
+    "report": "Report a problem"
+  },
+  "greeting": "Hello, {name}!",
+  "greetingWarm": "Kumusta, {name}!",
+  "search": {
+    "placeholder": "Postal code / City",
+    "radius": "{km} km",
+    "cta": "Search for job offers",
+    "label": "Location",
+    "radiusLabel": "Search radius"
+  },
+  "home": {
+    "sub": "Free for Filipino families and workers",
+    "ctaBabysitter": "I'm looking for a babysitter",
+    "ctaOffer": "I'm offering my services",
+    "featured": "Featured job offers",
+    "banner": "PinoyCare CH is 100% free — built by kababayan, for kababayan."
+  },
+  "trust": {
+    "verified": "Verified profiles",
+    "verifiedBody": "Community-reviewed caregivers across all 26 cantons.",
+    "messaging": "Free messaging",
+    "messagingBody": "Talk directly — no fees, no paywall, now or ever at launch.",
+    "reviews": "Community reviews",
+    "reviewsBody": "Real feedback from real families and workers."
+  },
+  "dashboard": {
+    "messages": "Messages",
+    "unanswered": "{count} unanswered message",
+    "unansweredPlural": "{count} unanswered messages",
+    "suggested": "Suggested jobs"
+  },
+  "sidebar": {
+    "visibilityTitle": "Profile visibility",
+    "visibilityOn": "Visible to others",
+    "visibilityOff": "Hidden",
+    "visibilityHelp": "Others can find and view your profile. Disable your profile visibility if you no longer want to be shown in the search results.",
+    "reviewsTitle": "Reviews",
+    "reviewsCount": "{count} review",
+    "reviewsCountPlural": "{count} reviews",
+    "reviewsHelp": "Positive reviews will increase your future job prospects considerably.",
+    "requestReview": "Request review",
+    "premiumLabel": "Premium — coming soon",
+    "premiumTitle": "Premium is coming soon, Kabayan!",
+    "premiumBullet1": "Highlighted profile",
+    "premiumBullet2": "See who viewed you",
+    "premiumBullet3": "Unlimited posts",
+    "premiumBullet4": "Verified Kabayan badge",
+    "premiumJoin": "Join the waitlist →",
+    "premiumPricing": "Pricing announced at launch."
+  },
+  "waitlist": {
+    "title": "Join the Premium waitlist",
+    "description": "Be the first to know when Premium launches. No spam — promise.",
+    "emailPlaceholder": "you@example.com",
+    "emailLabel": "Email address",
+    "submit": "Join waitlist",
+    "submitting": "Saving…",
+    "cancel": "Cancel",
+    "close": "Close",
+    "thanks": "Salamat! You're on the list.",
+    "thanksBody": "We'll email you when Premium launches. Pricing announced at launch.",
+    "error": "Something went wrong. Please try again.",
+    "invalidEmail": "Please enter a valid email address."
+  },
+  "empty": {
+    "messages": "Wala pang messages dito — start a conversation!",
+    "favourites": "You haven't saved any jobs yet. Tap the ♡ on a listing to save it.",
+    "views": "Wala pang views dito — share your profile to get noticed!"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "permitDisclaimer": "PinoyCare CH does not verify work permits. Users are responsible for complying with Swiss law.",
+    "freeNotice": "PinoyCare CH is 100% free — built by kababayan, for kababayan."
+  }
+}
