@@ -1,73 +1,21 @@
+MIT License
 
----
+Copyright (c) 2025 PinoyCare CH
 
-## File 51 — `CONTRIBUTING.md`
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-**Path in repo:** `CONTRIBUTING.md`
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-**Commit message:** `docs: add CONTRIBUTING`
-
-**Content to paste:**
-
-```markdown
-# Contributing to PinoyCare CH
-
-Salamat for wanting to help! This is a community project built by kababayan,
-for kababayan.
-
-## Branches
-
-- `main` — production (protected, requires PR)
-- `dev` — staging
-- `feat/*`, `fix/*` — feature and fix branches
-
-## Commits
-
-Use Conventional Commits:
-
-- `feat:` new feature
-- `fix:` bug fix
-- `chore:` maintenance
-- `docs:` documentation
-- `style:` formatting
-- `refactor:` code restructure
-- `a11y:` accessibility
-- `i18n:` translations
-- `ci:` CI/CD
-- `db:` database changes
-
-Example: `feat(chat): add typing indicator`
-
-## Pull requests
-
-1. One logical change per PR
-2. CI must pass (lint, typecheck, test, build)
-3. 1 approval required before merge
-4. Reference the issue number in the description
-
-## Code style
-
-- TypeScript strict mode
-- Prefer server components unless you need state or browser APIs
-- Use the `cn()` helper for conditional Tailwind classes
-- Follow the design tokens in `tailwind.config.ts` — no hardcoded hex colors
-- Every string shown to users should eventually be translatable
-
-## Translations
-
-The four locale files live in `messages/{en,tl,de,fr}.json`. Keys must match
-across all four. When you add a new string, add it to all four files (a rough
-translation is fine — native speakers will refine it).
-
-## Reporting bugs
-
-Open an issue with the Bug template. Include:
-- What you expected
-- What happened
-- Steps to reproduce
-- Browser and device
-
-## Code of conduct
-
-Be kind. We're all here to help each other. Disrespect, harassment, or
-discrimination will not be tolerated.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
