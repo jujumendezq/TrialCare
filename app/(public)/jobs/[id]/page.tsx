@@ -103,7 +103,6 @@ export default function JobDetailPage({
       </header>
 
       <div className="container-page grid grid-cols-1 gap-6 py-8 lg:grid-cols-3">
-        {/* Main */}
         <article className="card p-6 lg:col-span-2">
           <p className="text-small text-ink-muted">
             <span className="font-medium text-ink">{job.posterName}</span>
@@ -127,7 +126,6 @@ export default function JobDetailPage({
             {job.description}
           </div>
 
-          {/* Details grid */}
           <dl className="mt-8 grid grid-cols-1 gap-4 border-t border-surface-border pt-6 sm:grid-cols-2">
             <div>
               <dt className="text-small font-medium text-ink-muted">
@@ -146,7 +144,6 @@ export default function JobDetailPage({
           </dl>
         </article>
 
-        {/* Sidebar */}
         <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
           <div className="card p-4">
             <Button className="w-full">
@@ -185,7 +182,4 @@ export default function JobDetailPage({
       </div>
     </div>
   );
-}
-export function generateStaticParams() {
-  return [{ id: '1' }, { id: '2' }, { id: '3' }];
 }
