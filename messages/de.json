@@ -1,1 +1,102 @@
-
+{
+  "brand": {
+    "name": "PinoyCare CH",
+    "tagline": "Vertrauenswürdige Babysitter und Haushaltshilfen in der Schweiz finden"
+  },
+  "nav": {
+    "home": "Start",
+    "favourites": "Favoriten",
+    "profile": "Mein Profil",
+    "views": "Profilaufrufe",
+    "messages": "Nachrichten",
+    "help": "Hilfe",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden",
+    "account": "Mein Konto",
+    "profileSettings": "Profileinstellungen"
+  },
+  "help": {
+    "howItWorks": "So funktioniert es",
+    "safetyTips": "Sicherheitstipps",
+    "contact": "Support kontaktieren",
+    "report": "Problem melden"
+  },
+  "greeting": "Hallo, {name}!",
+  "greetingWarm": "Hallo, {name}!",
+  "search": {
+    "placeholder": "PLZ / Stadt",
+    "radius": "{km} km",
+    "cta": "Nach Stellen suchen",
+    "label": "Standort",
+    "radiusLabel": "Suchradius"
+  },
+  "home": {
+    "sub": "Kostenlos für philippinische Familien und Arbeitskräfte",
+    "ctaBabysitter": "Ich suche einen Babysitter",
+    "ctaOffer": "Ich biete meine Dienste an",
+    "featured": "Ausgewählte Stellenangebote",
+    "banner": "PinoyCare CH ist 100% kostenlos — von Kababayan für Kababayan."
+  },
+  "trust": {
+    "verified": "Verifizierte Profile",
+    "verifiedBody": "Von der Community geprüfte Betreuungspersonen in allen 26 Kantonen.",
+    "messaging": "Kostenloses Messaging",
+    "messagingBody": "Direkt sprechen — keine Gebühren, keine Paywall, jetzt und bei Markteinführung.",
+    "reviews": "Community-Bewertungen",
+    "reviewsBody": "Echtes Feedback von echten Familien und Arbeitskräften."
+  },
+  "dashboard": {
+    "messages": "Nachrichten",
+    "unanswered": "{count} unbeantwortete Nachricht",
+    "unansweredPlural": "{count} unbeantwortete Nachrichten",
+    "suggested": "Vorgeschlagene Stellen"
+  },
+  "sidebar": {
+    "visibilityTitle": "Profilsichtbarkeit",
+    "visibilityOn": "Für andere sichtbar",
+    "visibilityOff": "Verborgen",
+    "visibilityHelp": "Andere können Ihr Profil finden und ansehen. Deaktivieren Sie die Sichtbarkeit, wenn Sie nicht mehr in den Suchergebnissen erscheinen möchten.",
+    "reviewsTitle": "Bewertungen",
+    "reviewsCount": "{count} Bewertung",
+    "reviewsCountPlural": "{count} Bewertungen",
+    "reviewsHelp": "Positive Bewertungen verbessern Ihre zukünftigen Jobchancen erheblich.",
+    "requestReview": "Bewertung anfragen",
+    "premiumLabel": "Premium — kommt bald",
+    "premiumTitle": "Premium kommt bald, Kabayan!",
+    "premiumBullet1": "Hervorgehobenes Profil",
+    "premiumBullet2": "Sehen, wer Sie besucht hat",
+    "premiumBullet3": "Unbegrenzte Inserate",
+    "premiumBullet4": "Verifiziertes Kabayan-Abzeichen",
+    "premiumJoin": "Auf die Warteliste →",
+    "premiumPricing": "Preis wird beim Start bekannt gegeben."
+  },
+  "waitlist": {
+    "title": "Auf die Premium-Warteliste",
+    "description": "Erfahren Sie als Erste/r vom Premium-Start. Kein Spam — versprochen.",
+    "emailPlaceholder": "sie@beispiel.com",
+    "emailLabel": "E-Mail-Adresse",
+    "submit": "Beitreten",
+    "submitting": "Speichern…",
+    "cancel": "Abbrechen",
+    "close": "Schließen",
+    "thanks": "Salamat! Sie sind auf der Liste.",
+    "thanksBody": "Wir schreiben Ihnen, sobald Premium startet. Preis wird beim Start bekannt gegeben.",
+    "error": "Etwas ist schiefgelaufen. Bitte erneut versuchen.",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein."
+  },
+  "empty": {
+    "messages": "Noch keine Nachrichten — starten Sie ein Gespräch!",
+    "favourites": "Sie haben noch keine Stellen gespeichert. Tippen Sie auf ♡, um zu speichern.",
+    "views": "Noch keine Aufrufe — teilen Sie Ihr Profil, um gesehen zu werden!"
+  },
+  "footer": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "terms": "AGB",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "permitDisclaimer": "PinoyCare CH überprüft keine Arbeitsbewilligungen. Nutzer sind für die Einhaltung des Schweizer Rechts verantwortlich.",
+    "freeNotice": "PinoyCare CH ist 100% kostenlos — von Kababayan für Kababayan."
+  }
+}
