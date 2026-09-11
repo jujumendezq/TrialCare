@@ -1,1 +1,102 @@
-
+{
+  "brand": {
+    "name": "PinoyCare CH",
+    "tagline": "Trouvez des babysitters et aides ménagères de confiance en Suisse"
+  },
+  "nav": {
+    "home": "Accueil",
+    "favourites": "Favoris",
+    "profile": "Mon profil",
+    "views": "Vues du profil",
+    "messages": "Messages",
+    "help": "Aide",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "account": "Mon compte",
+    "profileSettings": "Paramètres du profil"
+  },
+  "help": {
+    "howItWorks": "Comment ça marche",
+    "safetyTips": "Conseils de sécurité",
+    "contact": "Contacter le support",
+    "report": "Signaler un problème"
+  },
+  "greeting": "Bonjour, {name} !",
+  "greetingWarm": "Bonjour, {name} !",
+  "search": {
+    "placeholder": "NPA / Ville",
+    "radius": "{km} km",
+    "cta": "Rechercher des offres",
+    "label": "Localisation",
+    "radiusLabel": "Rayon de recherche"
+  },
+  "home": {
+    "sub": "Gratuit pour les familles et travailleurs philippins",
+    "ctaBabysitter": "Je cherche un babysitter",
+    "ctaOffer": "Je propose mes services",
+    "featured": "Offres d'emploi en vedette",
+    "banner": "PinoyCare CH est 100% gratuit — créé par des kababayan, pour des kababayan."
+  },
+  "trust": {
+    "verified": "Profils vérifiés",
+    "verifiedBody": "Aidants évalués par la communauté dans les 26 cantons.",
+    "messaging": "Messagerie gratuite",
+    "messagingBody": "Parlez directement — sans frais, sans paywall, dès le lancement.",
+    "reviews": "Avis de la communauté",
+    "reviewsBody": "Retours réels de vraies familles et travailleurs."
+  },
+  "dashboard": {
+    "messages": "Messages",
+    "unanswered": "{count} message sans réponse",
+    "unansweredPlural": "{count} messages sans réponse",
+    "suggested": "Offres suggérées"
+  },
+  "sidebar": {
+    "visibilityTitle": "Visibilité du profil",
+    "visibilityOn": "Visible par les autres",
+    "visibilityOff": "Masqué",
+    "visibilityHelp": "Les autres peuvent trouver et consulter votre profil. Désactivez la visibilité si vous ne souhaitez plus apparaître dans les résultats de recherche.",
+    "reviewsTitle": "Avis",
+    "reviewsCount": "{count} avis",
+    "reviewsCountPlural": "{count} avis",
+    "reviewsHelp": "Les avis positifs augmenteront considérablement vos perspectives d'emploi.",
+    "requestReview": "Demander un avis",
+    "premiumLabel": "Premium — bientôt disponible",
+    "premiumTitle": "Premium arrive bientôt, Kabayan !",
+    "premiumBullet1": "Profil mis en avant",
+    "premiumBullet2": "Voir qui vous a consulté",
+    "premiumBullet3": "Annonces illimitées",
+    "premiumBullet4": "Badge Kabayan vérifié",
+    "premiumJoin": "Rejoindre la liste d'attente →",
+    "premiumPricing": "Tarif annoncé au lancement."
+  },
+  "waitlist": {
+    "title": "Rejoindre la liste d'attente Premium",
+    "description": "Soyez les premiers informés du lancement de Premium. Pas de spam — promis.",
+    "emailPlaceholder": "vous@exemple.com",
+    "emailLabel": "Adresse e-mail",
+    "submit": "Rejoindre",
+    "submitting": "Enregistrement…",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "thanks": "Salamat ! Vous êtes sur la liste.",
+    "thanksBody": "Nous vous écrirons au lancement de Premium. Tarif annoncé au lancement.",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "invalidEmail": "Veuillez saisir une adresse e-mail valide."
+  },
+  "empty": {
+    "messages": "Aucun message pour l'instant — démarrez une conversation !",
+    "favourites": "Vous n'avez encore enregistré aucune offre. Touchez le ♡ pour enregistrer.",
+    "views": "Aucune vue pour l'instant — partagez votre profil pour être remarqué !"
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "terms": "Conditions",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "permitDisclaimer": "PinoyCare CH ne vérifie pas les permis de travail. Les utilisateurs sont responsables du respect du droit suisse.",
+    "freeNotice": "PinoyCare CH est 100% gratuit — créé par des kababayan, pour des kababayan."
+  }
+}
