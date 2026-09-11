@@ -1,1 +1,12 @@
+# Default owners for everything in the repo
+* @YOUR-USERNAME
 
+# Design system must be reviewed by someone who knows the tokens
+/tailwind.config.ts @YOUR-USERNAME
+/app/globals.css @YOUR-USERNAME
+
+# Database migrations are high-risk — require review
+/supabase/migrations/ @YOUR-USERNAME
+
+# CI config
+/.github/workflows/ @YOUR-USERNAME
