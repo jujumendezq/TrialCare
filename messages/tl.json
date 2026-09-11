@@ -1,1 +1,102 @@
-
+{
+  "brand": {
+    "name": "PinoyCare CH",
+    "tagline": "Maghanap ng mapagkakatiwalaang babysitter at housekeeper sa Switzerland"
+  },
+  "nav": {
+    "home": "Home",
+    "favourites": "Mga Paborito",
+    "profile": "Aking profile",
+    "views": "Mga tumingin",
+    "messages": "Mga Mensahe",
+    "help": "Tulong",
+    "login": "Mag-login",
+    "register": "Mag-sign up",
+    "logout": "Mag-logout",
+    "account": "Aking account",
+    "profileSettings": "Settings ng profile"
+  },
+  "help": {
+    "howItWorks": "Paano ito gumagana",
+    "safetyTips": "Mga tip sa kaligtasan",
+    "contact": "Kontakin ang support",
+    "report": "I-report ang problema"
+  },
+  "greeting": "Kumusta, {name}!",
+  "greetingWarm": "Kumusta, {name}!",
+  "search": {
+    "placeholder": "Postal code / Lungsod",
+    "radius": "{km} km",
+    "cta": "Maghanap ng trabaho",
+    "label": "Lokasyon",
+    "radiusLabel": "Radius ng paghahanap"
+  },
+  "home": {
+    "sub": "Libre para sa mga Pilipinong pamilya at manggagawa",
+    "ctaBabysitter": "Naghahanap ako ng babysitter",
+    "ctaOffer": "Nag-aalok ako ng serbisyo",
+    "featured": "Mga tampok na trabaho",
+    "banner": "Ang PinoyCare CH ay 100% libre — gawa ng kababayan, para sa kababayan."
+  },
+  "trust": {
+    "verified": "Beripikadong profile",
+    "verifiedBody": "Mga caregiver na may community review sa lahat ng 26 kanton.",
+    "messaging": "Libreng pag-message",
+    "messagingBody": "Kausapin sila direkta — walang bayad, walang paywall, ngayon at sa launch.",
+    "reviews": "Mga review ng komunidad",
+    "reviewsBody": "Tunay na feedback mula sa tunay na pamilya at manggagawa."
+  },
+  "dashboard": {
+    "messages": "Mga Mensahe",
+    "unanswered": "{count} hindi pa nasasagot",
+    "unansweredPlural": "{count} hindi pa nasasagot",
+    "suggested": "Mga mungkahing trabaho"
+  },
+  "sidebar": {
+    "visibilityTitle": "Kita ng profile",
+    "visibilityOn": "Nakikita ng iba",
+    "visibilityOff": "Nakatago",
+    "visibilityHelp": "Maaaring hanapin at tingnan ng iba ang iyong profile. I-off ito kung ayaw mong lumabas sa search results.",
+    "reviewsTitle": "Mga Review",
+    "reviewsCount": "{count} review",
+    "reviewsCountPlural": "{count} review",
+    "reviewsHelp": "Ang magagandang review ay makakatulong sa iyong trabaho sa hinaharap.",
+    "requestReview": "Humingi ng review",
+    "premiumLabel": "Premium — malapit na",
+    "premiumTitle": "Malapit na ang Premium, Kabayan!",
+    "premiumBullet1": "Naka-highlight na profile",
+    "premiumBullet2": "Makita kung sino ang tumingin sa iyo",
+    "premiumBullet3": "Walang limitasyong posts",
+    "premiumBullet4": "Verified Kabayan badge",
+    "premiumJoin": "Sumali sa waitlist →",
+    "premiumPricing": "Ilalabas ang presyo sa launch."
+  },
+  "waitlist": {
+    "title": "Sumali sa Premium waitlist",
+    "description": "Ikaw ang unang makakaalam pag-launch ng Premium. Walang spam — pangako.",
+    "emailPlaceholder": "ikaw@halimbawa.com",
+    "emailLabel": "Email address",
+    "submit": "Sumali",
+    "submitting": "Sine-save…",
+    "cancel": "Kanselahin",
+    "close": "Isara",
+    "thanks": "Salamat! Nasa listahan ka na.",
+    "thanksBody": "Padadalhan ka namin ng email pag-launch ng Premium. Ilalabas ang presyo sa launch.",
+    "error": "May nangyaring mali. Subukan ulit.",
+    "invalidEmail": "Maglagay ng tamang email address."
+  },
+  "empty": {
+    "messages": "Wala pang messages dito — start a conversation!",
+    "favourites": "Wala ka pang naka-save na trabaho. I-tap ang ♡ para i-save.",
+    "views": "Wala pang views dito — i-share ang profile mo para makita ka!"
+  },
+  "footer": {
+    "about": "Tungkol",
+    "contact": "Kontak",
+    "terms": "Mga Tuntunin",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "permitDisclaimer": "Hindi nire-verify ng PinoyCare CH ang work permits. Responsibilidad ng user na sumunod sa batas ng Switzerland.",
+    "freeNotice": "Ang PinoyCare CH ay 100% libre — gawa ng kababayan, para sa kababayan."
+  }
+}
